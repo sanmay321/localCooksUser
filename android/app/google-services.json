@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113454441789",
+    "project_id": "locomay-45259",
+    "storage_bucket": "locomay-45259.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113454441789:android:ef0b8e9c50d8930ab7d154",
+        "android_client_info": {
+          "package_name": "com.localcooks.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXccvsw5qnZuYI1d2HJ-7VycB3CG-wIbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
